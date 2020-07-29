@@ -1,0 +1,22 @@
+div.header {
+    width: 800px;
+    margin:0 auto;
+    border: 3px solid #73AD21;
+  }
+
+
+  title {
+    width: 800px;
+    margin:0 auto;
+    border: 3px solid #73AD21;
+  }
+
+  .button {
+   background: url('imagen/name.jpg') center;
+  }
+
+  
+  .header {
+    background: url('imagen/name.jpg') center;
+   }
+
